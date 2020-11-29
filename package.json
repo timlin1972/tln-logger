@@ -1,0 +1,26 @@
+{
+  "name": "tln-logger",
+  "version": "1.0.0",
+  "description": "logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlin1972/tln-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "tln"
+  ],
+  "author": "Tim Lin <timlin1972@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlin1972/tln-logger/issues"
+  },
+  "homepage": "https://github.com/timlin1972/tln-logger#readme",
+  "dependencies": {
+    "winston": "^3.3.3"
+  }
+}
